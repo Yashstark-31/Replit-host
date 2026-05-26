@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+psutil
+requests
+pymongo
+certifi
+flask
